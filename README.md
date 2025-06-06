@@ -1,2 +1,1 @@
-# 2026-oct
-Calendar for October, 2026.
+# 2026-oct.bauska.org
