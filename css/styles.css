@@ -142,7 +142,7 @@ a:hover::after {
     background-color:#ccff9a;  /* pale green */
 }
 .natl-nut {
-    background-color:#ffd700;  /* gold */
+    background-color:#ffe34d;  /* light yellow */
 }
 .natl-food {
     background-color:#9aff9a;  /* pale lime green */
@@ -160,10 +160,10 @@ a:hover::after {
     background-color:#afffad;  /* pale lime green */
 }
 .natl-cat {
-    background-color:#e8e193;  /* very soft yellow */
+    background-color:#d2d5f5;  /* light grayish blue */
 }
 .natl-candycorn {
-    background-color:#ffd800;  /* pure yellow */
+    background-color:#fff09a;  /* pale yellow */
 }
 .halloween {
     background-color:#f19369;  /* soft orange */
