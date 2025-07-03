@@ -105,14 +105,17 @@ a:hover::after {
 }
 
 <!-- World, National & International Days -->
+.intlCoffee {
+    background-color:#d14a4a;  /* moderate red */
+}
 .intl-coffee {
     background-color:#d14a4a;  /* moderate red */
 }
 .natl-taco {
-    background-color:#ff4d4d;  /* light red */
+    background-color:#ff9a9a;  /* pale red [pink tone] */
 }
 .world-teacher {
-    background-color:#9ab3ff;  /* pale blue */
+    background-color:#a6f4ff;  /* pale cyan */
 }
 .walk-to-school {
     background-color:#98fb98;  /* very soft lime green */
