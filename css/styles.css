@@ -123,17 +123,17 @@ a:hover::after {
 .intl-day-of-the-girl {
     background-color:#ffc0cb;  /* very pale red (pink) */
 }
-.silus-bday {
-    background-color:#ffff00;  /* yellow */
+.silus-bd {
+    background-color:#ccff9a;  /* pale green */
 }
 .natl-farmers {
     background-color:#d3d3d3;  /* light gray */
 }
 .columbus {
-    background-color:#00ff00;  /* dark green */
+    background-color:#9aff9a;  /* pale lime green */
 }
 .natl-pasta {
-    background-color:#cd00cd;  /* strong magenta */
+    background-color:#ff68ff;  /* very light magenta */
 }
 .sweetest {
     background-color:#ccff9a;  /* pale green */
@@ -142,7 +142,7 @@ a:hover::after {
     background-color:#ffd700;  /* gold */
 }
 .natl-food {
-    background-color:#00ff00;  /* lime green */
+    background-color:#9aff9a;  /* pale lime green */
 }
 .natl-trick-or-treat {
     background-color:#ba9ce8;  /* very soft violet */
@@ -163,5 +163,5 @@ a:hover::after {
     background-color:#ffd800;  /* pure yellow */
 }
 .halloween {
-    background-color:#eb6123;  /* halloween orange */
+    background-color:#f19369;  /* soft orange */
 }
