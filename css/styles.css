@@ -122,6 +122,9 @@ a:hover::after {
 .world-animal {
     background-color:#9aff9a;  /* pale lime green */
 }
+.world-teacher {
+    background-color:#d2d5f5;  /* light grayish blue */
+}
 .german-american {
     background-color:#ba9ce8;  /* very soft violet */
 }
@@ -148,6 +151,9 @@ a:hover::after {
 }
 .columbus {
     background-color:#9aff9a;  /* pale lime green */
+}
+.global-handwashing {
+    background-color:#ccff9a;  /* pale green */
 }
 .world-food {
     background-color:#9aff9a;  /* pale lime green */
