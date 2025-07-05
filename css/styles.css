@@ -104,34 +104,52 @@ a:hover::after {
 }
 
 /* World, National & International Days */
-.intlCoffee {
-    background-color:#d14a4a;  /* moderate red */
-}
 .intl-coffee {
     background-color:#d14a4a;  /* moderate red */
+}
+.world-smile {
+    background-color:#a6f4ff;  /* pale cyan */
+}
+.mean-girls {
+    background-color:#98fb98;  /* very soft lime green */
+}
+.natl-boyfriend {
+    background-color:#d3d3d3;  /* light gray */
 }
 .natl-taco {
     background-color:#ff9a9a;  /* pale red [pink tone] */
 }
-.world-teacher {
+.world-animal {
+    background-color:#9aff9a;  /* pale lime green */
+}
+.german-american {
+    background-color:#ba9ce8;  /* very soft violet */
+}
+.world-sight {
+    background-color:#d2d5f5;  /* light grayish blue */
+}
+.leif-erikson {
     background-color:#a6f4ff;  /* pale cyan */
 }
-.walk-to-school {
-    background-color:#98fb98;  /* very soft lime green */
+.world-mental-health {
+    background-color:#ccff9a;  /* pale green */
 }
 .world-egg {
     background-color:#a6f4ff;  /* pale cyan */
 }
-.intl-day-of-the-girl {
-    background-color:#ffc0cb;  /* very pale red (pink) */
-}
 .silus-bd {
     background-color:#ccff9a;  /* pale green */
+}
+.intl-day-of-the-girl {
+    background-color:#ffc0cb;  /* very pale red (pink) */
 }
 .natl-farmers {
     background-color:#d3d3d3;  /* light gray */
 }
 .columbus {
+    background-color:#9aff9a;  /* pale lime green */
+}
+.world-food {
     background-color:#9aff9a;  /* pale lime green */
 }
 .natl-pasta {
@@ -140,14 +158,14 @@ a:hover::after {
 .sweetest {
     background-color:#ccff9a;  /* pale green */
 }
+.pronouns {
+    background-color:#9aff9a;  /* pale lime green */
+}
 .natl-nut {
     background-color:#ffe34d;  /* light yellow */
 }
 .natl-food {
     background-color:#9aff9a;  /* pale lime green */
-}
-.natl-trick-or-treat {
-    background-color:#ba9ce8;  /* very soft violet */
 }
 .natl-pumpkin {
     background-color:#e08b3e;  /* bright orange */
